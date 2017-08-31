@@ -5,6 +5,9 @@
     <title></title>
   </head>
   <body>
-    <?php echo "Hello PHP"; ?>
+    <?php $myVar1 = "Hello";
+    echo $myVar1.' PHP';
+    ?>
+
   </body>
 </html>
