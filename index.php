@@ -6,7 +6,9 @@
   </head>
   <body>
     <?php $myVar1 = "Hello";
-    echo $myVar1.' PHP';
+      $myVar2 = " PHP";
+
+      echo $myVar1.$myVar2;
     ?>
 
   </body>
