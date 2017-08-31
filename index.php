@@ -8,7 +8,7 @@
     <?php $myVar1 = "Hello";
       $myVar2 = " PHP";
 
-      echo $myVar1.$myVar2;
+      echo $myVar1.'<br>'.$myVar2;
     ?>
 
   </body>
